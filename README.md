@@ -31,7 +31,7 @@ python cost_optimizer.py
 optimizer = CostOptimizer()
 optimizer.analyze_aws_costs()
 optimizer.generate_recommendations()
-```
+````
 
 ### Output
 - Cost trend graphs
