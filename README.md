@@ -39,4 +39,4 @@ optimizer.generate_recommendations()
 - Optimization recommendations
 - Budget forecast visualizations
 
------------
+-------------
